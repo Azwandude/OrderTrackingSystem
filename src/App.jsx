@@ -50,7 +50,7 @@ function App() {
   const dynamicSteps = [
     { label: "Customer Registered", desc: "Your order details have been registered in our system." },
     { label: "Sample", desc: "Our design team is crafting your custom apparel." },
-    { label: "Template", desc: "Our design team is using template design for your apparel." },
+    { label: "Template", desc: "Our design team is currently using template design for your apparel." },
     { label: "Production", desc: "Your custom apparel is being printed and sublimated." },
     { label: "Stitching", desc: "Your apparel is being stitched and assembled." },
     { label: "Quality Check", desc: "Ensuring your product meets our quality standards." },
