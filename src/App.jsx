@@ -68,23 +68,23 @@ function App() {
         break;
 
       // Stage 2 — Designing
-      case 'Sample':
+      case 'sample':
         activeIndex = 1;
         dynamicSteps[1].label = orderData.status.trim();
         break;
 
       // Stage 3 — Production
-      case 'Template':
+      case 'template':
         activeIndex = 2;
         break;
 
       // Stage 4 — Stitching
-      case 'Production':
+      case 'production':
         activeIndex = 3;
         break;
 
        // Stage 4 — Stitching
-      case 'Stitching':
+      case 'stitching':
         activeIndex = 4;
         break;
 
