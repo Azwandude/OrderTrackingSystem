@@ -418,7 +418,7 @@ function App() {
             © {new Date().getFullYear()} AZPN. All rights reserved.
           </p>
           <div className="flex gap-6">
-            <a href="#" className="text-xs text-zinc-400 hover:text-zinc-600">Privacy Policy</a>
+            <a href="PrivacyPolicy" className="text-xs text-zinc-400 hover:text-zinc-600">Privacy Policy</a>
             <a href="#" className="text-xs text-zinc-400 hover:text-zinc-600">Terms of Service</a>
           </div>
         </div>
